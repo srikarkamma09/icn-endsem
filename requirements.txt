@@ -2,6 +2,6 @@ plotly
 numpy
 pandas
 time
-plotly.graph_objs
+plotly
 tensorflow.keras.layers
 sklearn.preprocessing
