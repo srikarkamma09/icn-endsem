@@ -1,7 +1,6 @@
+streamlit
 plotly
 numpy
 pandas
-time
-plotly
-tensorflow.keras.layers
-sklearn.preprocessing
+tensorflow
+scikit-learn
